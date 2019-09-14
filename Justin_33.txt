@@ -1,0 +1,12 @@
+Name: Justin
+Age: 33
+
+How many eyes do you have?
+2
+
+Which fruit do you like best?
+pineapple
+
+Do you like cupcakes?
+yes
+
